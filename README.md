@@ -1,6 +1,8 @@
 # PulseTrainHatSerialExample1-7
 Pulse Train Hat for the Raspberry Pi
 
+![alt tag](https://i1.wp.com/pthat.com/wp-content/uploads/2017/02/P1070020.jpg)
+
 Examples for the PTHAT http://www.pthat.com
 
 Raspberry Pi running Windows 10 IOT Universal Application C#
