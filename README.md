@@ -1,4 +1,4 @@
-# Pulse-Train-Hat
+# PulseTrainHatSerialExample1-7
 Pulse Train Hat for the Raspberry Pi
 
 Examples for the PTHAT http://www.pthat.com
